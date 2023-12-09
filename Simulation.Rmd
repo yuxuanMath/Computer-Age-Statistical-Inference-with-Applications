@@ -1,8 +1,6 @@
 ---
 title: "Simulation"
-output:
-  github_document:
-    pandoc_args: --webtex
+output: rmarkdown::github_document
 ---
 
 Singular value decomposition ${\rm SVD}_k$:
