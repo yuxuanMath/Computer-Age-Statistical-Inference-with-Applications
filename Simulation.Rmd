@@ -1,7 +1,8 @@
 ---
 title: "Simulation"
-output: rmarkdown::github_document
-date: "2023-12-09"
+output:
+  github_document:
+    pandoc_args: --webtex
 ---
 
 Singular value decomposition ${\rm SVD}_k$:
